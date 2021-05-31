@@ -1,0 +1,16 @@
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\bin\Debug\net5.0\if-else-ternary.exe
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\bin\Debug\net5.0\if-else-ternary.deps.json
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\bin\Debug\net5.0\if-else-ternary.runtimeconfig.json
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\bin\Debug\net5.0\if-else-ternary.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\bin\Debug\net5.0\if-else-ternary.dll
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\bin\Debug\net5.0\ref\if-else-ternary.dll
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\bin\Debug\net5.0\if-else-ternary.pdb
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\obj\Debug\net5.0\if-else-ternary.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\obj\Debug\net5.0\if-else-ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\obj\Debug\net5.0\if-else-ternary.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\obj\Debug\net5.0\if-else-ternary.AssemblyInfo.cs
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\obj\Debug\net5.0\if-else-ternary.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\obj\Debug\net5.0\if-else-ternary.dll
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\obj\Debug\net5.0\ref\if-else-ternary.dll
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\obj\Debug\net5.0\if-else-ternary.pdb
+C:\Users\mehme\Desktop\cs-101\if-else-ternary\obj\Debug\net5.0\if-else-ternary.genruntimeconfig.cache

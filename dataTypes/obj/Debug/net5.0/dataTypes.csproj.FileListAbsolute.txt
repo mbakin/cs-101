@@ -1,0 +1,16 @@
+C:\Users\mehme\Desktop\cs-101\dataTypes\bin\Debug\net5.0\dataTypes.exe
+C:\Users\mehme\Desktop\cs-101\dataTypes\bin\Debug\net5.0\dataTypes.deps.json
+C:\Users\mehme\Desktop\cs-101\dataTypes\bin\Debug\net5.0\dataTypes.runtimeconfig.json
+C:\Users\mehme\Desktop\cs-101\dataTypes\bin\Debug\net5.0\dataTypes.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\cs-101\dataTypes\bin\Debug\net5.0\dataTypes.dll
+C:\Users\mehme\Desktop\cs-101\dataTypes\bin\Debug\net5.0\ref\dataTypes.dll
+C:\Users\mehme\Desktop\cs-101\dataTypes\bin\Debug\net5.0\dataTypes.pdb
+C:\Users\mehme\Desktop\cs-101\dataTypes\obj\Debug\net5.0\dataTypes.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\cs-101\dataTypes\obj\Debug\net5.0\dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\cs-101\dataTypes\obj\Debug\net5.0\dataTypes.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\cs-101\dataTypes\obj\Debug\net5.0\dataTypes.AssemblyInfo.cs
+C:\Users\mehme\Desktop\cs-101\dataTypes\obj\Debug\net5.0\dataTypes.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\cs-101\dataTypes\obj\Debug\net5.0\dataTypes.dll
+C:\Users\mehme\Desktop\cs-101\dataTypes\obj\Debug\net5.0\ref\dataTypes.dll
+C:\Users\mehme\Desktop\cs-101\dataTypes\obj\Debug\net5.0\dataTypes.pdb
+C:\Users\mehme\Desktop\cs-101\dataTypes\obj\Debug\net5.0\dataTypes.genruntimeconfig.cache
