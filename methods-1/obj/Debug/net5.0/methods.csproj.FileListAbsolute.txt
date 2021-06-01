@@ -1,0 +1,16 @@
+C:\Users\mehme\Desktop\cs-101\methods\obj\Debug\net5.0\methods.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\cs-101\methods\obj\Debug\net5.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\cs-101\methods\obj\Debug\net5.0\methods.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\cs-101\methods\obj\Debug\net5.0\methods.AssemblyInfo.cs
+C:\Users\mehme\Desktop\cs-101\methods\obj\Debug\net5.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\cs-101\methods\bin\Debug\net5.0\methods.exe
+C:\Users\mehme\Desktop\cs-101\methods\bin\Debug\net5.0\methods.deps.json
+C:\Users\mehme\Desktop\cs-101\methods\bin\Debug\net5.0\methods.runtimeconfig.json
+C:\Users\mehme\Desktop\cs-101\methods\bin\Debug\net5.0\methods.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\cs-101\methods\bin\Debug\net5.0\methods.dll
+C:\Users\mehme\Desktop\cs-101\methods\bin\Debug\net5.0\ref\methods.dll
+C:\Users\mehme\Desktop\cs-101\methods\bin\Debug\net5.0\methods.pdb
+C:\Users\mehme\Desktop\cs-101\methods\obj\Debug\net5.0\methods.dll
+C:\Users\mehme\Desktop\cs-101\methods\obj\Debug\net5.0\ref\methods.dll
+C:\Users\mehme\Desktop\cs-101\methods\obj\Debug\net5.0\methods.pdb
+C:\Users\mehme\Desktop\cs-101\methods\obj\Debug\net5.0\methods.genruntimeconfig.cache
