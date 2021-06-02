@@ -1,0 +1,16 @@
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\bin\Debug\net5.0\Lesson_5.exe
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\bin\Debug\net5.0\Lesson_5.deps.json
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\bin\Debug\net5.0\Lesson_5.runtimeconfig.json
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\bin\Debug\net5.0\Lesson_5.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\bin\Debug\net5.0\Lesson_5.dll
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\bin\Debug\net5.0\ref\Lesson_5.dll
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\bin\Debug\net5.0\Lesson_5.pdb
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\obj\Debug\net5.0\Lesson_5.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\obj\Debug\net5.0\Lesson_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\obj\Debug\net5.0\Lesson_5.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\obj\Debug\net5.0\Lesson_5.AssemblyInfo.cs
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\obj\Debug\net5.0\Lesson_5.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\obj\Debug\net5.0\Lesson_5.dll
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\obj\Debug\net5.0\ref\Lesson_5.dll
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\obj\Debug\net5.0\Lesson_5.pdb
+C:\Users\mehme\Desktop\cs-101\classes\Lesson_5\obj\Debug\net5.0\Lesson_5.genruntimeconfig.cache
